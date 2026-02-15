@@ -1,7 +1,8 @@
 id = "vscode-dark-modern"
-name = "VSCode Dark Modern"
-version = "0.1.1"
+name = "VSCode Themes"
+version = "0.2.0"
 schema_version = 1
 authors = ["kcamcam <kevincamellini@gmail.com>"]
-description = "VSCode Dark Modern Theme for Zed"
+description = "VSCode Dark Modern, VSCode Dark, and VSCode Light Themes for Zed"
 repository = "https://github.com/kcamcam/vscode_dark_modern.zed"
+themes = ["themes/vscode-dark-modern.json", "themes/vscode-dark.json", "themes/vscode-light.json"]
